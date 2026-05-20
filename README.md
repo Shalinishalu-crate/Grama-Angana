@@ -39,7 +39,7 @@ utils/ → Helper classes
 
 ### Clone the Repository
 
-git clone [https://github.com/malikarshid01430-byte/GramaAngana.git](https://github.com/malikarshid01430-byte/GramaAngana.git)
+git clone [https://github.com/malikarshid01430-byte/GramaAngana.git](https://github.com/Shalinishalu-crate/Grama-Angana/edit/main/README.md)
 
 ---
 
@@ -120,7 +120,7 @@ This project is intended for educational and development purposes
 
 ## 👨‍💻 Author
 
-Developed by Arshid Ahmad Malik
+Developed by Shalini
 
 ---
 
