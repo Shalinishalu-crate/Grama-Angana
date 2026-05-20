@@ -120,7 +120,7 @@ This project is intended for educational and development purposes
 
 ## 👨‍💻 Author
 
-Developed by Shalini
+Developed by Shalini y s
 
 ---
 
