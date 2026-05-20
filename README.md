@@ -35,14 +35,6 @@ utils/ → Helper classes
 
 ---
 
-## ⚙️ Setup Instructions
-
-### Clone the Repository
-
-git clone [https://github.com/malikarshid01430-byte/GramaAngana.git](https://github.com/Shalinishalu-crate/Grama-Angana/edit/main/README.md)
-
----
-
 ### Or Download ZIP
 
 1. Go to the repository on GitHub
